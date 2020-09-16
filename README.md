@@ -29,6 +29,6 @@ git clone https://github.com/Elchinchel/IrCA-HTML-Duty
 
 Отправляем ирису следующую фразу (имя_аккаунта - логин на pythonanywhere):
 ```
-+api *секретная фраза* имя_аккаунта.pythonanywhere.com
++api *секретная фраза* http://имя_аккаунта.pythonanywhere.com
 ```
 Готово!
