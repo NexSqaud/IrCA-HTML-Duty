@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['POST', 'GET'])
 def callback():
-    return send_file('static/iris.html')
+    return send_file('iris.html')
 
 if __name__ == '__main__':
     app.run('localhost', port=80)
