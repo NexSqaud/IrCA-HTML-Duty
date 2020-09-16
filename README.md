@@ -82,7 +82,7 @@
 
 ![19](https://github.com/NexSqaud/IrCA-HTML-Duty/raw/000/images/19.png)
 
-##### Перехом в ВК и пишем в [ЛС ириса](https://vk.me/iris_cm) фразу `+апи (секрет) http://(название сайта).000webhostapp.com/iris.html` где `(секрет)` - ваш секрет, `(название сайта)` - название которое вы дали сайту вначале
+##### Переходим в ВК и пишем в [ЛС ириса](https://vk.me/iris_cm) фразу `+апи (секрет) http://(название сайта).000webhostapp.com/iris.html` где `(секрет)` - ваш секрет, `(название сайта)` - название которое вы дали сайту вначале
 
 ![20](https://github.com/NexSqaud/IrCA-HTML-Duty/raw/000/images/20.png)
 
