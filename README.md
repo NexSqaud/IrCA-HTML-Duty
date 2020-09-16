@@ -22,7 +22,7 @@
 (это две команды, после каждой нужно нажимать Enter)
 ```bash
 rm -rf IrCA-HTML-Duty
-git clone https://github.com/Elchinchel/IrCA-HTML-Duty
+git clone --branch PythonAnywhere https://github.com/NexSqaud/IrCA-HTML-Duty
 ```
 
 Далее переходим во вкладку *Web* и нажимаем на кнопку *Reload* `имя аккаунта`.pythonanywhere.com
