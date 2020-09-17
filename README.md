@@ -6,4 +6,5 @@
 # Как установить
 
 Инстукция для 000 [тута](https://github.com/NexSqaud/IrCA-HTML-Duty/tree/000)
+
 Инстукция для PythonAnywhere [тута](https://github.com/NexSqaud/IrCA-HTML-Duty/tree/PythonAnywhere)
